@@ -1,0 +1,17 @@
+__pycache__/
+canonical_representations/*.pkl
+weather_10yrs_percentage_0.1.txt
+weather_dataset.txt
+.vscode/
+weather_dataset_percentage_0.1.txt
+iTemporal_10^4_percentage_0.1.txt
+lubm_10^2_percentage_0.1.txt
+lubm_10^3_percentage_0.1.txt
+lubm_10^4_fixed_100.txt
+lubm_10^4_percentage_0.1.txt
+lubm_10^5_fixed_100.txt
+lubm_10^5_percentage_0.1.txt
+lubm_10^4.txt
+lubm_10^5.txt
+iTemporal_10^4/
+results/

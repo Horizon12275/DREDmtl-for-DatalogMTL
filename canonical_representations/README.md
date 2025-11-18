@@ -1,0 +1,1 @@
+**canonical_representations/** is initially empty and will be populated with the canonical representations generated during the preparation step.
