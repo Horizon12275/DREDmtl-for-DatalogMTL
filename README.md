@@ -1,6 +1,6 @@
 ## Introduction
 
-This repo is for the paper ["Incremental Maintenance for DatalogMTL Materialisations (AAAI-26)"](https://arxiv.org/abs/2511.12169). This repo contains the DRED_MTL implementation, datasets, programs, and scripts needed to reproduce all incremental-reasoning experiments on LUBMt, iTemporal, and the meteorological benchmark.
+(AAAI 26)This repo is for the paper ["Incremental Maintenance for DatalogMTL Materialisations (AAAI-26)"](https://arxiv.org/abs/2511.12169). This repo contains the DRED_MTL implementation, datasets, programs, and scripts needed to reproduce all incremental-reasoning experiments on LUBMt, iTemporal, and the meteorological benchmark.
 
 We implemented DRED<sub>MTL</sub> algorithm and evaluated its performance against the naive baseline in incremental maintenance tasks across three benchmarks: (1) LUBM<sub>t</sub> (Wang et al. 2022), a temporal extension of LUBM (Guo et al. 2005); (2) iTemporal (Bellomarini et al. 2022); and (3) a meteorological dataset (Wang et al. 2022). The experiment is based on the MeTeoR framework (Wałega et al. 2023). The three test programs of the benchmarks have 85, 11, and 4 rules, respectively.
 
